@@ -125,9 +125,7 @@ export default class AboutMe extends Component {
             color: '#52E8E2',
             fontWeight: 'bold',
           }}> 
-          <span dangerouslySetInnerHTML={{ "__html": "&copy;" }} /> Made by <a href='' style={{
-            color: '#29B270'
-          }}>Abhay Upadhyay</a></div>
+          <span dangerouslySetInnerHTML={{ "__html": "&copy;" }} /> Made by Abhay Upadhyay</div>
         </div>
       </div>
     )

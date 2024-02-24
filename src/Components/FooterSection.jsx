@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import ccLogo from '../images/cc-logo.svg'
 import gmailLogo from '../images/gmail-logo.svg'
 import githubLogo from '../images/github-logo.svg'
 
