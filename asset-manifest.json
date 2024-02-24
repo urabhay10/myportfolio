@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.b893af20.css",
-    "main.js": "/myportfolio/static/js/main.2d304527.js",
+    "main.js": "/myportfolio/static/js/main.6ff0b759.js",
     "static/media/techno-logo.png": "/myportfolio/static/media/techno-logo.35e44060057680ac4cb9.png",
     "static/media/node-logo.png": "/myportfolio/static/media/node-logo.e03a74dbe44bb2dd9e9c.png",
     "static/media/kotlin-logo.png": "/myportfolio/static/media/kotlin-logo.0e22a842339118ef9a10.png",
@@ -10,7 +10,6 @@
     "static/media/college.jpeg": "/myportfolio/static/media/college.715a4595ca8cbd947a24.jpeg",
     "static/media/spear.webp": "/myportfolio/static/media/spear.d9879996cb26abd08f1b.webp",
     "static/media/school.jpg": "/myportfolio/static/media/school.89fb7617e39dabc880d6.jpg",
-    "static/media/js-logo.png": "/myportfolio/static/media/js-logo.747787dca203fae2cd83.png",
     "static/media/cpp-logo.png": "/myportfolio/static/media/cpp-logo.1240ce157b70fb399c6c.png",
     "static/media/react-logo.png": "/myportfolio/static/media/react-logo.cd4ab68456d5875b788e.png",
     "static/media/css-logo.png": "/myportfolio/static/media/css-logo.8ea58d31a9d39dd59031.png",
@@ -20,14 +19,15 @@
     "static/media/cc-logo.svg": "/myportfolio/static/media/cc-logo.75e72af4591a8b08c012941cfd77cb53.svg",
     "static/media/github-logo.png": "/myportfolio/static/media/github-logo.987334e9f782cc505f25.png",
     "static/media/favicon.svg": "/myportfolio/static/media/favicon.00f54caa3a7010e95e8acdc589748a26.svg",
+    "static/media/js-logo.svg": "/myportfolio/static/media/js-logo.a6b7d1da42d35a8075dc40d97b2af3fb.svg",
     "static/media/github-logo.svg": "/myportfolio/static/media/github-logo.97ed8e7eef60d61ca469881dd6f34511.svg",
     "index.html": "/myportfolio/index.html",
     "static/media/gmail-logo.svg": "/myportfolio/static/media/gmail-logo.e1bc2ceb745debf9361ad2160a79823a.svg",
     "main.b893af20.css.map": "/myportfolio/static/css/main.b893af20.css.map",
-    "main.2d304527.js.map": "/myportfolio/static/js/main.2d304527.js.map"
+    "main.6ff0b759.js.map": "/myportfolio/static/js/main.6ff0b759.js.map"
   },
   "entrypoints": [
     "static/css/main.b893af20.css",
-    "static/js/main.2d304527.js"
+    "static/js/main.6ff0b759.js"
   ]
 }
