@@ -52,7 +52,7 @@ export default class AboutMe extends Component {
             fontWeight: 'bold'
           }} className='border-only-text2'>About Me</div>
           <div>
-            I am currently a First Year student pursuing a B.Tech in Information Technology. Alongside my studies, I actively engage in full-stack development, working on various projects both independently and as part of a team. I enjoy tackling new problem statements and constantly challenging myself to learn and grow. As a competitive programmer, I have participated in numerous contests on platforms like <a href='https://codechef.com/users/urabhay10' style={{ textDecoration: 'none', fontWeight: 'bold', color: '#29B270' }}>CodeChef</a>, <a href='https://codeforces.com/profile/hewhocodes' style={{ textDecoration: 'none', fontWeight: 'bold', color: '#29B270' }}>Codeforces</a>, and <a href='https://leetcode.com/urabhay10/' style={{ textDecoration: 'none', fontWeight: 'bold', color: '#29B270' }}>LeetCode</a>. This not only sharpens my problem-solving skills but also allows me to stay updated with the latest trends in algorithms and data structures. I am passionate about collaboration and enjoy working with others to tackle challenges and learn new things. I am very competitive and always strive to be the best in whatever I do. I am also a quick learner and can adapt to new technologies and tools with ease. I try to maintain a balance between my academic and extracurricular activities. My hobbies are playing chess and writing new stories especially science fiction.
+            I am currently a First Year student pursuing a B.Tech in Information Technology. Alongside my studies, I actively engage in full-stack development, working on various projects both independently and as part of a team. I enjoy tackling new problem statements and constantly challenging myself to learn and grow. As a competitive programmer, I have participated in numerous contests on platforms like <a target="_blank" rel="noreferrer" href='https://codechef.com/users/urabhay10' style={{ textDecoration: 'none', fontWeight: 'bold', color: '#29B270' }}>CodeChef</a>, <a target="_blank" rel="noreferrer" href='https://codeforces.com/profile/hewhocodes' style={{ textDecoration: 'none', fontWeight: 'bold', color: '#29B270' }}>Codeforces</a>, and <a target="_blank" rel="noreferrer" href='https://leetcode.com/urabhay10/' style={{ textDecoration: 'none', fontWeight: 'bold', color: '#29B270' }}>LeetCode</a>. This not only sharpens my problem-solving skills but also allows me to stay updated with the latest trends in algorithms and data structures. I am passionate about collaboration and enjoy working with others to tackle challenges and learn new things. I am very competitive and always strive to be the best in whatever I do. I am also a quick learner and can adapt to new technologies and tools with ease. I try to maintain a balance between my academic and extracurricular activities. My hobbies are playing chess and writing new stories especially science fiction.
           </div>
         </div>
         <div style={{
@@ -66,7 +66,7 @@ export default class AboutMe extends Component {
         }}>
           <ul className='social'>
             <li>
-              <a href="https://codechef.com/users/urabhay10">
+              <a target="_blank" rel="noreferrer" href="https://codechef.com/users/urabhay10">
                 <span></span>
                 <span></span>
                 <span></span>
@@ -75,7 +75,7 @@ export default class AboutMe extends Component {
               </a>
             </li>
             <li>
-              <a href="https://codeforces.com/profile/hewhocodes">
+              <a target="_blank" rel="noreferrer" href="https://codeforces.com/profile/hewhocodes">
                 <span></span>
                 <span></span>
                 <span></span>
@@ -87,7 +87,7 @@ export default class AboutMe extends Component {
               </a>
             </li>
             <li>
-              <a href="https://github.com/urabhay10">
+              <a target="_blank" rel="noreferrer" href="https://github.com/urabhay10">
                 <span></span>
                 <span></span>
                 <span></span>
@@ -99,7 +99,7 @@ export default class AboutMe extends Component {
               </a>
             </li>
             <li>
-              <a href="mailto:hewhocodes247@gmail.com">
+              <a target="_blank" rel="noreferrer" href="mailto:hewhocodes247@gmail.com">
                 <span></span>
                 <span></span>
                 <span></span>
@@ -111,7 +111,7 @@ export default class AboutMe extends Component {
               </a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/in/abhay-upadhyay-7a7597292/">
+              <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/abhay-upadhyay-7a7597292/">
                 <span></span>
                 <span></span>
                 <span></span>

@@ -9,7 +9,7 @@ import bootstrapLogo from '../images/bootstrap-logo.png';
 import reactLogo from '../images/react-logo.png';
 import cssLogo from '../images/css-logo.png';
 import kotlinLogo from '../images/kotlin-logo.png';
-import jsLogo from '../images/js-logo.png';
+import jsLogo from '../images/js-logo.svg';
 import cppLogo from '../images/cpp-logo.png';
 import pythonLogo from '../images/python-logo.png';
 
@@ -97,7 +97,7 @@ export default class MainDesign extends Component {
     }
     async componentDidMount() {
         // await this.handleRightClick();
-
+        await this.typeMid("Abhay Upadhyay", "Hi I'm")
         window.scrollBy({
             top: -window.innerHeight,
             behavior: 'auto'

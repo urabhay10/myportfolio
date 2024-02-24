@@ -128,7 +128,7 @@ export default class Projects extends Component {
                             fontWeight: 'bold',
                             height: '50px',
                         }}>
-                            <a href={this.props.project.github} style={{
+                            <a rel='noreferrer' target="_blank" href={this.props.project.github} style={{
                                 display: 'flex',
                                 flexDirection: 'row',
                                 justifyContent: 'center',
@@ -147,7 +147,7 @@ export default class Projects extends Component {
                                 }} />
                                 GitHub
                             </a>
-                            <a href={this.props.project.link} style={{
+                            <a rel='noreferrer' target="_blank" href={this.props.project.link} style={{
                                 display: 'flex',
                                 flexDirection: 'row',
                                 justifyContent: 'center',

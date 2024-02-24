@@ -6,6 +6,7 @@ import EducationSection from './EducationSection'
 import ProjectSection from './ProjectSection'
 import AboutSection from './AboutSection'
 import FooterSection from './FooterSection'
+import SwitchToDesktop from './SwitchToDesktop'
 
 export default class MobileVersion extends Component {
   render() {
@@ -31,6 +32,7 @@ export default class MobileVersion extends Component {
         <EducationSection/>
         <ProjectSection/>
         <AboutSection/>
+        <SwitchToDesktop/>
         <FooterSection/>
         <div style={{
             color: '#52e8e2',

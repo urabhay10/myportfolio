@@ -9,7 +9,7 @@ import bootstrapLogo from '../images/bootstrap-logo.png'
 import reactLogo from '../images/react-logo.png'
 import kotlinLogo from '../images/kotlin-logo.png'
 import cppLogo from '../images/cpp-logo.png'
-import jsLogo from '../images/js-logo.png'
+import jsLogo from '../images/js-logo.svg'
 import pythonLogo from '../images/python-logo.png'
 
 export default class SkillsSection extends Component {

@@ -38,7 +38,8 @@ export default class ProjectSection extends Component {
                 marginTop: '5vh',
                 borderRadius: '10px',
                 border: '1px solid #e8e252',
-                textAlign: 'center'
+                textAlign: 'center',
+                padding: '10px'
             }} id='projects'>
                 <div style={{
                     fontWeight: 600,
@@ -137,7 +138,7 @@ export default class ProjectSection extends Component {
                     height: '50px',
                     padding: '5px'
                 }}>
-                    <a href={this.state.github} style={{
+                    <a rel='noreferrer' target="_blank" href={this.state.github} style={{
                         display: 'flex',
                         flexDirection: 'row',
                         justifyContent: 'center',
@@ -156,7 +157,7 @@ export default class ProjectSection extends Component {
                         }} />
                         GitHub
                     </a>
-                    <a href={this.state.link} style={{
+                    <a rel='noreferrer' target="_blank" href={this.state.link} style={{
                         display: 'flex',
                         flexDirection: 'row',
                         justifyContent: 'center',

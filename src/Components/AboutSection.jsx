@@ -13,7 +13,8 @@ export default class AboutSection extends Component {
                 marginTop: '5vh',
                 borderRadius: '10px',
                 border: '1px solid #e8e252',
-                textAlign: 'center'
+                textAlign: 'center',
+                padding: '10px'
             }}>
                 <div style={{
                     fontWeight: 600,

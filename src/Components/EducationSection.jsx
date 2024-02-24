@@ -59,13 +59,13 @@ export default class EducationSection extends Component {
                         if (this.state.title === 'Veermata Jijabai Technological Institute') {
                             this.setState({
                                 title: 'Ramnivas Ruia Junior College',
-                                desc: 'I studied at Ramnivas Ruia Autonomous College for my HSC in Mumbai From here, I completed my 11th and 12th grade from 2021 to 2023. I did my HSC from Maharashtra State Board. I studied the subjects English, Maths, Physics, Chemistry and Electronics. During my time at Ramnivas Ruia Junior College, I actively participated in various extracurricular activities. My experiences at Ramnivas Ruia have been instrumental in shaping my academic pursuits and preparing me for future endeavors. During this time, I also prepared for MHT-CET in which I got 99.87%ile.',
+                                desc: 'I studied at Ramnivas Ruia Autonomous College for my HSC in Mumbai From here, I completed my 11th and 12th grade from 2021 to 2023. During my time at Ramnivas Ruia Junior College, I actively participated in various extracurricular activities. My experiences at Ramnivas Ruia have been instrumental in shaping my academic pursuits and preparing me for future endeavors. During this time, I also prepared for MHT-CET in which I got 99.87%ile.',
                                 img: college
                             });
                         } else if (this.state.title === 'Ramnivas Ruia Junior College') {
                             this.setState({
                                 title: 'Sir JJ Fort Boys High School',
-                                desc: "I studied at Sir JJ Princess Street Primary School and Sir JJ Fort Boys High School in Mumbai before attending Ramnivas Ruia Autonomous College for my HSC. At Sir JJ Princess Street Primary School, I received a strong foundation in various subjects, laying the groundwork for my future academic pursuits. My years at Sir JJ Fort Boys High School were marked by rigorous education and a supportive learning environment, where I developed essential skills and knowledge. These formative years instilled in me a passion for learning and a dedication to academic excellence. I scored 94% in my 10th grade along with 99% in Maths. My teachers guided me to the right path ahead every time.",
+                                desc: "I completed my 10th grade from Sir JJ Fort Boys High School. I received a strong foundation in various subjects with laid my foundation. I scored 94% in my 10th grade along with 99% in Maths. My teachers guided me to the right path ahead every time.",
                                 img: school
                             });
                         } else {
@@ -85,7 +85,7 @@ export default class EducationSection extends Component {
                         if (this.state.title === 'Veermata Jijabai Technological Institute') {
                             this.setState({
                                 title: 'Sir JJ Fort Boys High School',
-                                desc: "I studied at Sir JJ Princess Street Primary School and Sir JJ Fort Boys High School in Mumbai before attending Ramnivas Ruia Autonomous College for my HSC. At Sir JJ Princess Street Primary School, I received a strong foundation in various subjects, laying the groundwork for my future academic pursuits. My years at Sir JJ Fort Boys High School were marked by rigorous education and a supportive learning environment, where I developed essential skills and knowledge. These formative years instilled in me a passion for learning and a dedication to academic excellence. I scored 94% in my 10th grade along with 99% in Maths. My teachers guided me to the right path ahead every time.",
+                                desc: "I completed my 10th grade from Sir JJ Fort Boys High School. I received a strong foundation in various subjects with laid my foundation. I scored 94% in my 10th grade along with 99% in Maths. My teachers guided me to the right path ahead every time.",
                                 img: school
                             });
                         } else if (this.state.title === 'Ramnivas Ruia Junior College') {
@@ -97,7 +97,7 @@ export default class EducationSection extends Component {
                         } else {
                             this.setState({
                                 title: 'Ramnivas Ruia Junior College',
-                                desc: 'I studied at Ramnivas Ruia Autonomous College for my HSC in Mumbai From here, I completed my 11th and 12th grade from 2021 to 2023. I did my HSC from Maharashtra State Board. I studied the subjects English, Maths, Physics, Chemistry and Electronics. During my time at Ramnivas Ruia Junior College, I actively participated in various extracurricular activities. My experiences at Ramnivas Ruia have been instrumental in shaping my academic pursuits and preparing me for future endeavors. During this time, I also prepared for MHT-CET in which I got 99.87%ile.',
+                                desc: 'I studied at Ramnivas Ruia Autonomous College for my HSC in Mumbai From here, I completed my 11th and 12th grade from 2021 to 2023. During my time at Ramnivas Ruia Junior College, I actively participated in various extracurricular activities. My experiences at Ramnivas Ruia have been instrumental in shaping my academic pursuits and preparing me for future endeavors. During this time, I also prepared for MHT-CET in which I got 99.87%ile.',
                                 img: college
                             });
                         }
