@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    scrollbar-width: thin;
+    scrollbar-color: #efe731 #000000;
+}
+
+.border-only-text {
+    -webkit-text-stroke: 0.03em #efe731;
+    text-stroke: 1px #efe731;
+    color: transparent;
+  }

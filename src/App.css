@@ -1,25 +1,20 @@
 body {
   background-color: black;
-  overflow: hidden;
+  scrollbar-width: thin;
+  scrollbar-color: #52e8e2 #000000;
+  /* overflow: hidden; */
 }
 
 .border-only-text {
   -webkit-text-stroke: 0.03em #efe731;
-  /* For Safari/Chrome */
   text-stroke: 1px #efe731;
-  /* Standard property */
   color: transparent;
-  /* Hide the text color */
 }
 
 .border-only-text2 {
   -webkit-text-stroke: 0.03em #52E8E2;
-  /* For Safari/Chrome */
   text-stroke: 1px #52E8E2;
-  /* Standard property */
   color: transparent;
-  /* Hide the text color */
-
 }
 
 @keyframes fadeInAndRise {
