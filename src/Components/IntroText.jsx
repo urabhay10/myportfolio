@@ -28,7 +28,10 @@ export default class IntroText extends Component {
                     height: 'fit-content',
                     borderRadius: '10px',
                     border: '1px solid #e8e252',
-                }}>
+                }} 
+                data-aos="flip-left"
+data-aos-duration='1000'
+                >
                     <div style={{
                         fontWeight: 600,
                         color: '#e8e252',

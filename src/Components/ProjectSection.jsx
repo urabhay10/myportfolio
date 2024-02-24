@@ -40,7 +40,9 @@ export default class ProjectSection extends Component {
                 border: '1px solid #e8e252',
                 textAlign: 'center',
                 padding: '10px'
-            }} id='projects'>
+            }} id='projects'
+            data-aos="flip-left"
+data-aos-duration='1000'>
                 <div style={{
                     fontWeight: 600,
                     fontSize: '2rem',

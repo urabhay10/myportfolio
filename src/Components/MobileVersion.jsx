@@ -7,8 +7,13 @@ import ProjectSection from './ProjectSection'
 import AboutSection from './AboutSection'
 import FooterSection from './FooterSection'
 import SwitchToDesktop from './SwitchToDesktop'
+import AOS from 'aos'
+import 'aos/dist/aos.css'
 
 export default class MobileVersion extends Component {
+  componentDidMount() {
+    AOS.init();
+  }
   render() {
     return (
       <div>

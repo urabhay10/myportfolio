@@ -25,7 +25,9 @@ export default class SkillsSection extends Component {
         marginTop: '5vh',
         borderRadius: '10px',
         border: '1px solid #e8e252',
-      }}>
+      }}
+      data-aos="flip-left"
+data-aos-duration='1000'>
         <div style={{
             fontWeight: 600,
             fontSize: '2rem',

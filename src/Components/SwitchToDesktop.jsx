@@ -14,7 +14,9 @@ export default class SwitchToDesktop extends Component {
                 border: '1px solid #e8e252',
                 margin: '10px',
                 textAlign: 'center'
-            }}>
+            }}
+            data-aos="flip-left"
+data-aos-duration='1000'>
                 <div style={{
                     fontWeight: 600,
                     color: '#e8e252',

@@ -33,7 +33,9 @@ export default class EducationSection extends Component {
                 borderRadius: '10px',
                 border: '1px solid #e8e252',
                 textAlign: 'center'
-            }}>
+            }}
+            data-aos="flip-left"
+data-aos-duration='1000'>
                 <div style={{
                     fontWeight: 600,
                     fontSize: '2rem',
