@@ -1,9 +1,21 @@
-body {
-  background-color: black;
-  scrollbar-width: thin;
-  scrollbar-color: #52e8e2 #000000;
-  /* overflow: hidden; */
+@media (min-width: 768px) and (orientation: landscape) {
+  body {
+    background-color: black;
+    scrollbar-width: thin;
+    scrollbar-color: #52e8e2 #000000;
+    overflow: hidden;
+  }
 }
+
+@media (max-width: 768px), (orientation: portrait) {
+  body {
+    background-color: black;
+    scrollbar-width: thin;
+    scrollbar-color: #52e8e2 #000000;
+    overflow: auto;
+  }
+}
+
 
 .border-only-text {
   -webkit-text-stroke: 0.03em #efe731;
