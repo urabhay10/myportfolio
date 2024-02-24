@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.f832fc22.css",
+    "main.js": "/myportfolio/static/js/main.930f0b41.js",
+    "static/media/techno-logo.png": "/myportfolio/static/media/techno-logo.35e44060057680ac4cb9.png",
+    "static/media/node-logo.png": "/myportfolio/static/media/node-logo.e03a74dbe44bb2dd9e9c.png",
+    "static/media/kotlin-logo.png": "/myportfolio/static/media/kotlin-logo.0e22a842339118ef9a10.png",
+    "static/media/python-logo.png": "/myportfolio/static/media/python-logo.dea924d737bb84eb9ce3.png",
+    "static/media/university.webp": "/myportfolio/static/media/university.971008ca31fe9b2e488c.webp",
+    "static/media/college.jpeg": "/myportfolio/static/media/college.715a4595ca8cbd947a24.jpeg",
+    "static/media/spear.webp": "/myportfolio/static/media/spear.d9879996cb26abd08f1b.webp",
+    "static/media/school.jpg": "/myportfolio/static/media/school.89fb7617e39dabc880d6.jpg",
+    "static/media/js-logo.png": "/myportfolio/static/media/js-logo.747787dca203fae2cd83.png",
+    "static/media/cpp-logo.png": "/myportfolio/static/media/cpp-logo.1240ce157b70fb399c6c.png",
+    "static/media/react-logo.png": "/myportfolio/static/media/react-logo.cd4ab68456d5875b788e.png",
+    "static/media/css-logo.png": "/myportfolio/static/media/css-logo.8ea58d31a9d39dd59031.png",
+    "static/media/mongodb-logo.png": "/myportfolio/static/media/mongodb-logo.7a16fc61d457c9e340e2.png",
+    "static/media/express-logo.png": "/myportfolio/static/media/express-logo.39a0f4c3d981885c64f8.png",
+    "static/media/bootstrap-logo.png": "/myportfolio/static/media/bootstrap-logo.ff4ba441ec3324145fde.png",
+    "static/media/cc-logo.svg": "/myportfolio/static/media/cc-logo.75e72af4591a8b08c012941cfd77cb53.svg",
+    "static/media/github-logo.png": "/myportfolio/static/media/github-logo.987334e9f782cc505f25.png",
+    "static/media/favicon.svg": "/myportfolio/static/media/favicon.00f54caa3a7010e95e8acdc589748a26.svg",
+    "static/media/github-logo.svg": "/myportfolio/static/media/github-logo.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "index.html": "/myportfolio/index.html",
+    "static/media/gmail-logo.svg": "/myportfolio/static/media/gmail-logo.e1bc2ceb745debf9361ad2160a79823a.svg",
+    "main.f832fc22.css.map": "/myportfolio/static/css/main.f832fc22.css.map",
+    "main.930f0b41.js.map": "/myportfolio/static/js/main.930f0b41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f832fc22.css",
+    "static/js/main.930f0b41.js"
+  ]
+}
