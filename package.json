@@ -1,8 +1,8 @@
 {
   "name": "portfolio",
-  "homepage":"https://urabhay10.github.io/myportfolio",
+  "homepage": "https://urabhay10.github.io/myportfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
